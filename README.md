@@ -27,6 +27,3 @@ Soy estudiante de ingeniería informática en la mención de Ingeniería del Sof
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=fercartri&icon=0&color=0)](https://visitcount.itsvg.in)
